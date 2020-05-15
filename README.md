@@ -88,3 +88,9 @@ You are required to submit the following:
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 # Michael_Li_portfolio
+
+
+++++student notes++++
+(1): I cannot get the buttons at the top to be highlighted on their corresponding pages. The "About" button stays highlighted on all pages. I want the portfolio button to highlight is this is the case. I thought this had something to do with the code:
+<span class="sr-only">(current)</span> so I included it in the corresponding pages. 
++++++++++++++++++++++
