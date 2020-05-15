@@ -1,0 +1,13 @@
+header {
+    height: 70px;
+}
+
+#contactForm {
+    width: 70%;
+    display: inline-block;
+    margin: 10px 15%;
+}
+
+#contactFormTitle {
+    text-align: center;
+}
