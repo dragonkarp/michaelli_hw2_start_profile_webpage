@@ -20,3 +20,10 @@ header {
     width: 100%;
     margin: 1%;
 }
+
+#linkedinConnectButton {
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+}
+
