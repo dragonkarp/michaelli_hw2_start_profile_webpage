@@ -27,3 +27,22 @@ header {
     width: 70px;
 }
 
+#textAboveProfilePic {
+    padding-left: 6px;
+}
+
+/* responsive code */
+
+@media screen and (max-width: 786px) {
+    body {
+        background-color: aquamarine;
+    }       
+
+}
+
+@media screen and (max-width: 576px) {
+    body {
+        background-color: cadetblue;
+    }
+
+}
