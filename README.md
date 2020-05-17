@@ -1,3 +1,14 @@
+++++student notes++++
+(locate comment in file), the file: my comments 
+
+(1), all html pages: I cannot get the buttons at the top to be highlighted on their corresponding pages. The "About" button stays highlighted on all pages. I want the portfolio button to highlight is this is the case. I thought this had something to do with the code:
+<span class="sr-only">(current)</span> so I included it in the corresponding pages. The drop 3-bar drop down menu that appears at the right side of the navbar does not actually have functionality to drop down and display link options. 
+
+(2), contact.html: I have not finished the styling. Having trouble finding out how to align item in top section from bottom section. Don't know if I need to change my HTML structure, or add CSS. Also don't know why the link to my LinkedIn page isn't working(it's a direct link; it works when pasted into search bar).
+
+general thoughts: Most of my time spent was working on the HTML structure and customer CSS. I did not get far in adding content, this will be added later. The responsive code is bare, but works. I chose to use three pages only. I added the links feature to my Connect page instead of the About Me page. 
++++++++++++++++++++++
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
@@ -98,5 +109,5 @@ You are required to submit the following:
 
 (2), contact.html: I have not finished the styling. Having trouble finding out how to align item in top section from bottom section. Don't know if I need to change my HTML structure, or add CSS. Also don't know why the link to my LinkedIn page isn't working(it's a direct link; it works when pasted into search bar).
 
-
+general thoughts: Most of my time spent was working on the HTML structure and customer CSS. I did not get far in adding content, this will be added later. The responsive code is bare, but works.
 +++++++++++++++++++++
